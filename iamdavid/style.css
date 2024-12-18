@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1, h2 {
+    font-weight: bold;
+}
+
+.navbar .nav-link:hover {
+    color: #ffc107 !important;
+}
+
+section {
+    padding: 60px 0;
+}
+
+#home {
+    background: linear-gradient(to bottom, #007bff, #0056b3);
+}
